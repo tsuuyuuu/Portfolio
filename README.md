@@ -17,6 +17,7 @@ Portfolio sederhana menggunakan **HTML, CSS, dan Bootstrap**, dengan sentuhan cu
 ## 📂 Struktur Project
 📁 belajar-bootstrap
  ┣ 📄 index.html
+ 
  ┣ 📄 style.css
  ┣ 🖼️ 1.png
  ┣ 🖼️ 2.png
@@ -36,9 +37,9 @@ Portfolio sederhana menggunakan **HTML, CSS, dan Bootstrap**, dengan sentuhan cu
 ---
 
 ## 📸 Preview
-![tampilan](1.png)
-![tampilan](2.png)
-![tampilan](3.png)
+![tampilan](ss/1.png)
+![tampilan](ss/2.png)
+![tampilan](ss/3.png)
 
 
 
